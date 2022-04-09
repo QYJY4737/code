@@ -12,6 +12,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * @Date 2022/4/9 20:36
  * @Version 1.0
  */
+
 @Slf4j
 @EnableSwagger2
 @SpringBootApplication
